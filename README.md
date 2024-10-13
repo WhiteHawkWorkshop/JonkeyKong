@@ -14,8 +14,10 @@ Code and joker art by WhiteHawkWorkshop
 
 Other Balatro Mods referenced in development:
 
-[Steamodded - Example Mods](https://github.com/Steamopollys/Steamodded/) - formatting, joker structure 
-[DVRP - RiskofJesters](https://dvrp-balatro-mods.pages.dev/risk-of-jesters) - creating a specific joker by key 
+[Steamodded - Example Mods](https://github.com/Steamopollys/Steamodded/) - formatting, joker structure
+
+[DVRP - RiskofJesters](https://dvrp-balatro-mods.pages.dev/risk-of-jesters) - creating a specific joker by key
+
 [JustinBanzon - Bird Jokers](https://github.com/JustinBanzon/Bird-Jokers) - custom sound effects
 
 ## FAQ
